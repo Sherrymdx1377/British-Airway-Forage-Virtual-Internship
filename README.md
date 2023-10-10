@@ -1,6 +1,3 @@
-
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsco.wikipedia.org%2Fwiki%2FFile%3ABritish_Airways_Logo.svg&psig=AOvVaw3f-i0Ca657cK6a9ZnJjTQQ&ust=1696995718268000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD48-nH6oEDFQAAAAAdAAAAABAE)
-
 # British-Airways-virtual-internship
 Data science virtual internship programme by British Airways through Forage!
 
